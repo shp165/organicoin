@@ -1,0 +1,45 @@
+/* BUTTON THEME */
+.btn-theme {
+  background-color: rgb(39,194,76);
+  color: #fff;
+}
+.btn-theme:hover,
+.btn-theme:focus,
+.btn-theme:active {
+  background-color: rgb(32,160,63);
+  color: #fff;
+}
+/* FEATURES  */
+.features-list .feature .feature-icon {
+  color: #27c24c;
+}
+/* CONTACTS */
+.list-icons li a:hover,
+.list-icons li a:focus {
+  color: #27c24c;
+}
+/* PLANS  */
+.plan {
+  background-color: #edf1f2;
+}
+.plan .plan-header {
+  background-color: #27c24c;
+}
+.plan .plan-features > li > em {
+  color: #27c24c;
+}
+.plan .plan-feature-disable {
+  color: #f05050 !important;
+}
+/* SITE TEXT */
+.featured-list > li {
+  color: #27c24c;
+}
+
+
+
+/* EB0 CODE */
+header.novideo {
+  background-color: #fff;
+  background-image: url(../img/bg-img/bg-8.jpg);
+}
